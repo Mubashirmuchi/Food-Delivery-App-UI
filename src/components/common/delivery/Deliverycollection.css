@@ -1,0 +1,8 @@
+.slick-prev.slick-disabled:before{
+    color: rgb(67, 61, 61);
+}
+
+.slick-next:before, .slick-prev:before{
+    color: rgb(67, 61, 61);
+   
+}
